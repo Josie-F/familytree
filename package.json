@@ -1,0 +1,15 @@
+{
+  "name": "family-tree-i",
+  "version": "1.0.0",
+  "description": "tests",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Josie-f",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.5.2"
+  }
+}
